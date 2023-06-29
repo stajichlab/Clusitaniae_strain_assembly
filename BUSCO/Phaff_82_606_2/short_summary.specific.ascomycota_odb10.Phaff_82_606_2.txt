@@ -1,0 +1,35 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: ascomycota_odb10 (Creation date: 2020-09-10, number of genomes: 365, number of BUSCOs: 1706)
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/Candida/Clusitaniae_strain_assembly/genomes/Phaff_82_606_2.sorted.fasta
+# BUSCO was run in mode: euk_genome_aug
+# Gene predictor used: augustus
+
+	***** Results: *****
+
+	C:84.3%[S:84.2%,D:0.1%],F:0.8%,M:14.9%,n:1706	   
+	1438	Complete BUSCOs (C)			   
+	1437	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	13	Fragmented BUSCOs (F)			   
+	255	Missing BUSCOs (M)			   
+	1706	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	39	Number of scaffolds
+	70	Number of contigs
+	10687699	Total length
+	0.022%	Percent gaps
+	797 KB	Scaffold N50
+	441 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	makeblastdb: 2.13.0+
+	tblastn: 2.13.0+
+	augustus: 3.4.0
+	gff2gbSmallDNA.pl: None
+	new_species.pl: None
+	etraining: None
+	busco: 5.4.4
