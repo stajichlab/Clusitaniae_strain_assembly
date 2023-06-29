@@ -72,10 +72,9 @@ do
 	rm -rf $STAGEDIR/spades_${BASE}/K?? $STAGEDIR/spades_${BASE}/tmp
     fi
 
-    #if [ ! -f $VECCLEAN ]; then 
-    #AAFTF vecscreen -i $ASMFILE -c $CPU -o $VECCLEAN 
-#
- #   fi
+    if [ ! -f $VECCLEAN ]; then 
+    	AAFTF vecscreen -i $ASMFILE -c $CPU -o $VECCLEAN 
+    fi
     if [ ! -f $PURGE ]; then
 	AAFTF sourpurge -i $VECCLEAN -o $PURGE -c $CPU --phylum $PHYLUM --left $LEFT  --right $RIGHT
     fi
