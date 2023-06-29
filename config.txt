@@ -1,0 +1,5 @@
+SAMPLESINFO=samples.csv
+FASTQDIR=fastq
+STAGEDIR=in-progress
+FINALDIR=genomes
+IFS=,
