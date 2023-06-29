@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/A18.S4H.sorted.fasta
+   CONTIG COUNT  =  178
+   TOTAL LENGTH  =  11777607
+            MIN  =  501
+            MAX  =  405277
+         MEDIAN  =  39837
+           MEAN  =  66166.33
+            L50  =  28
+            N50  =  133040
+            L90  =  93
+            N90  =  36186

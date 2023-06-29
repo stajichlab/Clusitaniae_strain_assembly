@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/U10Dmrr1.sorted.fasta
+   CONTIG COUNT  =  49
+   TOTAL LENGTH  =  9152942
+            MIN  =  517
+            MAX  =  967228
+         MEDIAN  =  62464
+           MEAN  =  186794.73
+            L50  =  6
+            N50  =  549904
+            L90  =  19
+            N90  =  124781

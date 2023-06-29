@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/A12.L10B.sorted.fasta
+   CONTIG COUNT  =  248
+   TOTAL LENGTH  =  11600695
+            MIN  =  505
+            MAX  =  383108
+         MEDIAN  =  17762
+           MEAN  =  46777.00
+            L50  =  31
+            N50  =  109749
+            L90  =  99
+            N90  =  33609

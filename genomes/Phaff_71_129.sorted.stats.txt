@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/Phaff_71_129.sorted.fasta
+   CONTIG COUNT  =  40
+   TOTAL LENGTH  =  11154393
+            MIN  =  521
+            MAX  =  1458288
+         MEDIAN  =  105505
+           MEAN  =  278859.83
+            L50  =  6
+            N50  =  693824
+            L90  =  16
+            N90  =  250791

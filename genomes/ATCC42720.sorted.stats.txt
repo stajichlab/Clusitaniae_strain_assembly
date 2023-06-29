@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/ATCC42720.sorted.fasta
+   CONTIG COUNT  =  207
+   TOTAL LENGTH  =  11327045
+            MIN  =  506
+            MAX  =  329969
+         MEDIAN  =  28274
+           MEAN  =  54720.02
+            L50  =  30
+            N50  =  112455
+            L90  =  91
+            N90  =  37832

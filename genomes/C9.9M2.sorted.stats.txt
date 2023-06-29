@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/C9.9M2.sorted.fasta
+   CONTIG COUNT  =  52
+   TOTAL LENGTH  =  9418101
+            MIN  =  507
+            MAX  =  1304506
+         MEDIAN  =  80099
+           MEAN  =  181117.33
+            L50  =  8
+            N50  =  389211
+            L90  =  22
+            N90  =  178255

@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/CBS_6936.sorted.fasta
+   CONTIG COUNT  =  123
+   TOTAL LENGTH  =  10992857
+            MIN  =  502
+            MAX  =  1176205
+         MEDIAN  =  835
+           MEAN  =  89372.82
+            L50  =  8
+            N50  =  498003
+            L90  =  23
+            N90  =  168178

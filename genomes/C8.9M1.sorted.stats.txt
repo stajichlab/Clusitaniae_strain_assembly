@@ -1,0 +1,15 @@
+Assembly statistics for: genomes/C8.9M1.sorted.fasta
+   CONTIG COUNT  =  53
+   TOTAL LENGTH  =  9474026
+            MIN  =  507
+            MAX  =  1182310
+         MEDIAN  =  51858
+           MEAN  =  178755.21
+            L50  =  7
+            N50  =  509415
+            L90  =  21
+            N90  =  107665
+            GC%  =  44.34
+  T2T SCAFFOLDS  =  0
+   TELOMERE FWD  =  0
+   TELOMERE REV  =  0

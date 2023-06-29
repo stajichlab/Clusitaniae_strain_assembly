@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/C31.13MP.sorted.fasta
+   CONTIG COUNT  =  65
+   TOTAL LENGTH  =  10098148
+            MIN  =  517
+            MAX  =  1028818
+         MEDIAN  =  62541
+           MEAN  =  155356.12
+            L50  =  8
+            N50  =  331890
+            L90  =  26
+            N90  =  120549

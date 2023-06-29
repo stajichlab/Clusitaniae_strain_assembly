@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/CL_17.sorted.fasta
+   CONTIG COUNT  =  102
+   TOTAL LENGTH  =  10600894
+            MIN  =  500
+            MAX  =  1255129
+         MEDIAN  =  2230
+           MEAN  =  103930.33
+            L50  =  7
+            N50  =  536832
+            L90  =  19
+            N90  =  177668

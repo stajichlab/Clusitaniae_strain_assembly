@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/A3.U3G.sorted.fasta
+   CONTIG COUNT  =  181
+   TOTAL LENGTH  =  11768226
+            MIN  =  502
+            MAX  =  405205
+         MEDIAN  =  40807
+           MEAN  =  65017.82
+            L50  =  29
+            N50  =  124125
+            L90  =  92
+            N90  =  37973

@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/A24.SputuP.sorted.fasta
+   CONTIG COUNT  =  243
+   TOTAL LENGTH  =  11689822
+            MIN  =  517
+            MAX  =  590567
+         MEDIAN  =  20566
+           MEAN  =  48106.26
+            L50  =  29
+            N50  =  115176
+            L90  =  101
+            N90  =  32153

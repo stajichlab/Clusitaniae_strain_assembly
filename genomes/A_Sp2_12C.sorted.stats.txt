@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/A_Sp2_12C.sorted.fasta
+   CONTIG COUNT  =  46
+   TOTAL LENGTH  =  8947256
+            MIN  =  527
+            MAX  =  1454925
+         MEDIAN  =  47853
+           MEAN  =  194505.57
+            L50  =  5
+            N50  =  609090
+            L90  =  16
+            N90  =  155801

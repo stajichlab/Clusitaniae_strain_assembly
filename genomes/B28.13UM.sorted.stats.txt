@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/B28.13UM.sorted.fasta
+   CONTIG COUNT  =  75
+   TOTAL LENGTH  =  10708800
+            MIN  =  517
+            MAX  =  808635
+         MEDIAN  =  67606
+           MEAN  =  142784.00
+            L50  =  10
+            N50  =  412300
+            L90  =  32
+            N90  =  105396

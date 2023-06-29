@@ -1,0 +1,11 @@
+Assembly statistics for: genomes/B23.133H.sorted.fasta
+   CONTIG COUNT  =  56
+   TOTAL LENGTH  =  10231819
+            MIN  =  517
+            MAX  =  1032198
+         MEDIAN  =  32350
+           MEAN  =  182711.05
+            L50  =  7
+            N50  =  541826
+            L90  =  20
+            N90  =  160989
